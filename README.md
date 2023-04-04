@@ -26,7 +26,7 @@ As proposed in the given problem that due to increasing size and capacity of the
  2)Non-Functional requirements for the library information system.
  A)Security-The access of the system should be provided to some pecified users only.Only specified persons should only be able to access the system.
  
- B)Easiness-The system should be easy to use and user friendly,
+ B)Easiness-The system should be easy to use and user friendly.
 
  C)Maintainability-The system should be easy to maintain means if any minor update or modification in the system should not harm the whole system.
 
